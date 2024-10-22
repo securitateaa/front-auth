@@ -2,7 +2,7 @@ import axios from "axios";
 import { deleteValueFor, getValueFor } from "../utils/session";
 
 const api = axios.create({
-    baseURL: process.env.API_URL,
+    baseURL: process.env.REACT_APP_API_URL,
     headers: {
         Accept: "application/json",
         "Content-Type": "application/json",
