@@ -1,4 +1,4 @@
-# Fornt Auth
+# Front-Auth
 
 ## Description
 
